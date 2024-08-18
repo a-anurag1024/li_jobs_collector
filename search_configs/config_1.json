@@ -1,0 +1,270 @@
+{
+    "description": "Configuration to get the basic searches for data science related jobs in india in the last one day.",
+    "searches": [
+        {
+            "search_term": "data scientist",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data analyst",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "machine learning",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "machine learning engineer",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "artificial intelligence",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "artificial intelligence engineer",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "deep learning",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "deep learning engineer",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "nlp",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "nlp engineer",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "computer vision",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "computer vision engineer",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data engineer",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science finance",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science healthcare",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science retail",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science e-commerce",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science marketing",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science sales",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science hr",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science operations",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science supply chain",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science logistics",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science manufacturing",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science agriculture",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science education",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science government",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science defense",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science aerospace",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science automotive",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science banking",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science insurance",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science telecom",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science oil and gas",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science energy",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science utilities",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science real estate",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science construction",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science consulting",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science legal",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science media",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science entertainment",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science sports",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science gaming",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science travel",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data science hospitality",
+            "location": "India",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data scientist",
+            "location": "Benagluru",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data scientist",
+            "location": "Mumbai",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data scientist",
+            "location": "Pune",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data scientist",
+            "location": "Hyderabad",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data scientist",
+            "location": "Chennai",
+            "last_how_many_days": 1
+        },
+        {
+            "search_term": "data scientist",
+            "location": "Delhi",
+            "last_how_many_days": 1
+        }
+    ]
+}
