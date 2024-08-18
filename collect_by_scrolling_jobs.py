@@ -6,7 +6,7 @@ from job_post_collector.job_scroller import SearchConfig, JobScroller
 from job_post_collector.db import DB, DB_Creds
 
 
-search_config_file = Path("./mount/search_configs/config_1_monthly.json")
+search_config_file = Path("./search_configs/config_1_monthly.json")
 
 def main():
     creds = DB_Creds(
